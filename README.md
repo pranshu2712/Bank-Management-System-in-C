@@ -20,3 +20,12 @@ It is designed for B.Tech 1st semester students to practice structures, arrays, 
 ## How to Run
 1. Download or clone the repository.  
 2. Compile the program:
+gcc bank_management.c -o bank
+3. Run the program:
+./bank
+
+## Future Improvements
+- Add file handling for permanent data storage  
+- Add login system for security  
+- Add interest calculation and transaction history
+  
